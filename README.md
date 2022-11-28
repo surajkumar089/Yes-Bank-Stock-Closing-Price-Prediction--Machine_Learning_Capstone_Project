@@ -26,7 +26,7 @@ Finally, the data was fit  using various supervised regression algorithms like L
 Upon using FBProphet and lag columns we found that Linear Regression achieved a R squared score of 98%.  Finally, after going through all the regression models without using lag columns, we achieved an R squared score of 91.% using the Random Forest regressor on the test dataset.
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 If you wish any information on the project feel free to contact me on LinkedIn or by email:
 
