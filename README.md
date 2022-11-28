@@ -24,3 +24,15 @@ Exploration our data was performed by checking all the necessary parameters like
 Finally, the data was fit  using various supervised regression algorithms like Linear Regression, Ridge and Lasso Techniques, Random Forest and Decision Tree Regression. All the performance metrics of these models were compared against each other and the best model was used to predict the stock price.
 # Result
 Upon using FBProphet and lag columns we found that Linear Regression achieved a R squared score of 98%.  Finally, after going through all the regression models without using lag columns, we achieved an R squared score of 91.% using the Random Forest regressor on the test dataset.
+
+<!-- CONTACT -->
+## Contact
+
+If you wish any information on the project feel free to contact me on LinkedIn or by email:
+
+Linkedin: (https://www.linkedin.com/in/suraj-kumar-372048203/)
+
+Email: (surajkumar0892@gmail.com)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
